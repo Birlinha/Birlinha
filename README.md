@@ -1,8 +1,12 @@
-### Hi there 👋
+### Oi! Eu sou a Emilly
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=birlinha&show_)
+Mas também pode me chamar de Birlinha!
+Eu sempre amei programar e desenvolver sistemas para os jogos que eu jogava/administrava
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=birlinha&layout=compact)
+Hoje, procuro uma mudança de carreira em direção à análise de dados, ou ciência de dados, e tenho a experiência em empreendedorismo que têm ajudado a tomar um rumo estruturado nessa ou em qualquer outra área
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=birlinha&show_&theme=cobalt)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=birlinha&layout=compact&theme=cobalt)
 
 - 📫 Contact / Contato: omenaribeiro13@gmail.com
 - 😄 Pronouns / Pronomes: Her / Ela
