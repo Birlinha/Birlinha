@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=birlinha&show_)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=birlinha&layout=compact)
+
+- 📫 Contact / Contato: omenaribeiro13@gmail.com
+- 😄 Pronouns / Pronomes: Her / Ela
+- 🌱 Learning / Aprendendo: Empreendedorismo & Ciência de Dados
+
 <!--
 **Birlinha/Birlinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
