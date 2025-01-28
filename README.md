@@ -10,6 +10,5 @@ Tenho tempo disponível para projetos pessoais e colaborações
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=birlinha&show_&theme=cobalt)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=birlinha&layout=compact&theme=cobalt)
 
-- 📫 Contact / Contato: omenaribeiro13@gmail.com
 - 😄 Pronouns / Pronomes: Her / Ela
 - 🧑‍🔬 Ciência de Dados
